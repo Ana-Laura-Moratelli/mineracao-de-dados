@@ -10,5 +10,6 @@ Lista de exercícios da matéria de Mineração de Dados.
 - Lista 4 - 13/03/2026
 - Lista 5 - 10/04/2026
 - Lista 6 - 17/04/2026
+- Lista 7 - 24/04/2026
 
 
